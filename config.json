@@ -1,0 +1,8 @@
+{
+ "level1_key1": [0, 1, 2],
+ "level1_key2": {
+  "level2_key1": 1,
+  "level2_key2": [4, 5, 6]
+ },
+ "level1_key3_list": [8, 9, 10]
+}
